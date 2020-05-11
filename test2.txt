@@ -1,0 +1,1 @@
+do check ( c <> 8 ) od
